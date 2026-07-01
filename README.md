@@ -1,3 +1,3 @@
 # FirstRepo-Demo
 This is my first repo
-<br>author: Akash Singh 
+<br>author: Akash Singh Rathour
